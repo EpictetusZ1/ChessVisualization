@@ -1,0 +1,594 @@
+
+[Event "It"]
+[Site "Budapest (Hungary)"]
+[Date "1929.??.??"]
+[Round "13"]
+[White "Prokes Ladislav (CZE)"]
+[Black "Rubinstein Akiba K (POL)"]
+[Result "0-1"]
+[ECO "D00"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.e3 Nf6 3.Bd3 Nc6 4.f4 Nb4 5.Nf3 Nxd3+ 6.cxd3 e6 7.Nc3
+Be7 8.O-O O-O 9.Bd2 Nd7 10.Rc1 Re8 11.Ne2 a5 12.Ng3 f6 13.Nh4
+c5 14.f5 cxd4 15.exd4 Bf8 16.Qg4 Nb8 17.Nh5 Nc6 18.Bh6 Qe7 19.Rce1
+Qf7 20.fxe6 Rxe6 21.Qg3 Rxe1 22.Nxf6+ Qxf6 23.Qxe1 Qe7 24.Qg3
+Nxd4 25.Kh1 Ne2 0-1
+
+
+[Event "It"]
+[Site "Budapest (Hungary)"]
+[Date "1929.??.??"]
+[Round "8"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Canal Esteban (PER)"]
+[Result "1/2-1/2"]
+[ECO "E35"]
+[WhiteElo "0"]
+[BlackElo "2270"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 d5 5.cxd5 exd5 6.Bg5 h6 7.Bxf6
+Qxf6 8.a3 Bxc3+ 9.Qxc3 c6 10.Nf3 O-O 11.e3 Re8 12.Bd3 Bf5 13.O-O
+Nd7 14.b4 Be4 15.Be2 Qg6 16.a4 a5 17.Rfc1 Nb6 18.Ne1 Nc4 19.Bxc4
+dxc4 20.Qxc4 Bd5 21.Qc3 f5 22.g3 f4 23.exf4 axb4 24.Qxb4 Qe4
+25.f3 Qe3+ 26.Kf1 Bxf3 27.Qc3 Be2+ 28.Kg2 Qe4+ 29.Kf2 Rad8 30.Nf3
+Bxf3 31.Qxf3 Qxd4+ 32.Kg2 Qb2+ 33.Kg1 Rd2 34.Re1 Ree2 35.Rxe2
+Qxa1+ 36.Kg2 Rxe2+ 37.Qxe2 Qxa4 38.Qe6+ Kf8 39.f5 c5 40.Qc8+
+Qe8 41.Qxc5+ Kg8 42.Qc4+ Qf7 43.Qc8+ Kh7 44.g4 Qd5+ 45.Kg3 Qd3+
+46.Kh4 Qe2 47.Qc7 Qf2+ 48.Kh3 Qf3+ 49.Kh4 Qf2+ 50.Kh3 Qe3+ 51.Kg2
+Qe4+ 52.Kg3 Qd3+ 53.Kg2 Qa6 54.f6 1/2-1/2
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Capablanca Jose Raul (CUB)"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 c5 4.b3 Nc6 5.Bb2 b6 6.Nbd2 Bb7 7.Bd3
+cxd4 8.exd4 Nb4 9.Bf1 Rc8 10.c4 Nc6 11.Bd3 d5 12.O-O Bd6 13.a3
+O-O 14.Re1 dxc4 15.bxc4 Bf4 16.Nf1 Na5 17.Qe2 Qc7 18.d5 Nxc4
+19.Bxf6 gxf6 20.dxe6 fxe6 21.Nd4 Bd5 22.Nxe6 Bxe6 23.Qxe6+ Kh8
+24.Re4 Ne5 25.Ba6 Rce8 26.Qf5 Bh6 27.Rae1 Rd8 28.Rh4 Qg7 29.Rh3
+Rd4 30.Qh5 Rg4 31.Ng3 Bf4 32.Rd1 Bxg3 33.Rxg3 Rxg3 34.hxg3 Qe7
+35.Qf5 1/2-1/2
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Colle Edgard (BEL)"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 b6 4.Nbd2 Bb7 5.Bd3 d5 6.O-O Bd6 7.b3
+O-O 8.Bb2 Nbd7 9.Ne5 c5 10.Qf3 Qc7 11.Nxd7 Nxd7 12.Qh3 f5 13.f4
+c4 14.bxc4 dxc4 15.Nxc4 Rf6 16.Nxd6 Qxd6 17.d5 Rh6 18.Qf3 Nc5
+19.Rfd1 Bxd5 20.Bc4 Bxf3 21.Rxd6 Rg6 22.Bf1 Rc8 23.c4 Kf7 24.Be5
+Ke7 25.a4 Nb3 26.Ra2 Na5 27.Rad2 Bc6 28.Ra2 Rd8 29.Rxd8 Kxd8
+30.Bc3 Nb7 31.a5 Nc5 32.axb6 axb6 33.Ra7 Bb7 34.Bd4 Kc7 35.Be5+
+Kc8 36.g3 Nd7 37.Be2 Nxe5 38.fxe5 Rh6 39.Bf1 Kb8 40.Ra2 g5 41.Bg2
+Bxg2 42.Kxg2 Kb7 43.Rd2 Kc6 44.Rd8 g4 45.Rc8+ Kd7 46.Rf8 Kc6
+47.Rf7 Kc5 48.Rc7+ Kb4 49.Rc6 Kc3 50.Rxb6 Kxc4 51.Rd6 Kc5 52.Kg1
+Kc4 53.Kg2 Kc3 54.Kg1 Kc4 55.Kg2 1/2-1/2
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Gruenfeld Ernst F (AUT)"]
+[Result "1-0"]
+[ECO "A47"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 b6 4.Nbd2 Bb7 5.Bd3 c5 6.O-O Be7 7.e4
+cxd4 8.Nxd4 Nc6 9.Nxc6 dxc6 10.Qe2 Qc7 11.f4 Nd7 12.c3 e5 13.Nc4
+Bf6 14.f5 Nc5 15.Bc2 Ba6 16.Be3 O-O 17.Bxc5 bxc5 18.Bd3 Bxc4
+19.Bxc4 Rfd8 20.Rad1 Rxd1 21.Rxd1 Rd8 22.Rxd8+ Qxd8 23.Kf1 g6
+24.fxg6 hxg6 25.g3 Kg7 26.h4 Qd7 27.Kg2 Qd6 28.Bb3 Qd7 29.Qc4
+Qd2+ 30.Kf3 Kh6 31.Qxc5 Qxb2 32.Qe3+ Kg7 33.Qxa7 Qxc3+ 34.Kg4
+Qd3 35.Qxf7+ Kh6 36.Qc4 Qd2 37.Qf1 Kg7 38.Qd1 Qg2 39.Qf3 Qd2
+40.Kh3 Qd8 41.Qc3 Qd6 42.g4 Bd8 43.g5 Bb6 44.Qf3 Qf8 45.Qxf8+
+Kxf8 46.Kg4 Be3 47.Ba4 c5 48.Bb3 Bd2 49.Bc4 Kg7 50.a4 Kf8 51.Kf3
+Ke7 52.Ke2 Ba5 53.Kd1 Bb4 54.Be2 Kd6 55.h5 gxh5 56.Bxh5 Ke7 57.Kc2
+c4 58.Be2 c3 59.Kb3 Kf7 60.Bd3 Ba5 61.Kc4 Kg6 62.Kb5 Bd8 63.a5
+Bxg5 64.a6 Be3 65.Kc6 Kg5 66.Kb7 Kf4 67.Bb1 Bd4 68.a7 Bxa7 69.Kxa7
+Ke3 70.Kb6 1-0
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Johner Paul F (SUI)"]
+[Result "1-0"]
+[ECO "E38"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 c5 5.dxc5 Na6 6.a3 Bxc3+ 7.Qxc3
+Nxc5 8.f3 d5 9.cxd5 Qxd5 10.e4 Qh5 11.Bf4 Na4 12.Qb4 Bd7 13.b3
+Nb6 14.Bd3 Bc6 15.Ne2 Nfd7 16.Nd4 Qh4+ 17.Bg3 Qf6 18.Rc1 a5 19.Qc3
+Rc8 20.Nxc6 Rxc6 21.Qxf6 gxf6 22.Rxc6 bxc6 23.Bd6 Ne5 24.Bxe5
+fxe5 25.Kd2 Kd7 26.Rd1 Kc7 27.Kc3 Rg8 28.Bf1 Rd8 29.Rxd8 Kxd8
+30.b4 axb4+ 31.Kxb4 Kc7 32.a4 Nd7 33.a5 h6 34.Bd3 Kb7 35.Bc2
+Nb8 36.Bd3 Nd7 37.g4 Kc7 38.h4 Nf8 39.Bf1 Nd7 40.Bh3 Nf8 41.h5
+f6 42.Bf1 Nd7 43.Bc4 Nf8 44.Bb3 Nh7 45.Kc5 Nf8 46.Ba2 Nd7+ 47.Kb4
+Nf8 48.a6 Kb6 49.a7 Kxa7 50.Kc5 Kb7 51.Kd6 Kb6 52.Ke7 Nh7 53.Bxe6
+Kc7 54.Bc4 Ng5 55.Kxf6 Kd6 56.Kg6 Ke7 1-0
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Saemisch Friedrich (GER)"]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "0"]
+[BlackElo "2200"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 Nf6 2.Nf3 e6 3.e3 c5 4.Nbd2 Nc6 5.a3 b6 6.Bd3 Bb7 7.O-O
+Qc7 8.Qe2 Be7 9.c3 d5 10.b4 O-O 11.b5 Na5 12.Bb2 c4 13.Bc2 Bd6
+14.a4 a6 15.Ba3 Bxa3 16.Rxa3 axb5 17.axb5 g6 18.Ne5 Kg7 19.Rb1
+Nd7 20.f4 f6 21.Nxd7 Qxd7 22.Nf3 Rae8 23.Ra2 Re7 24.g4 e5 25.fxe5
+Qxg4+ 26.Qg2 Qxg2+ 27.Kxg2 fxe5 28.Nxe5 Rxe5 29.dxe5 d4+ 30.Kg1
+d3 31.Bd1 Re8 32.Bg4 Rxe5 33.Kf2 h5 34.Bh3 g5 35.Bd7 Re7 36.Bc6
+Rf7+ 37.Ke1 g4 38.Rb4 Nxc6 39.bxc6 Bxc6 40.Rxb6 Bf3 41.Ra5 Bg2
+42.e4 Rf1+ 43.Kd2 Rf2+ 44.Ke3 Rf3+ 45.Kd2 Rf2+ 46.Ke3 Rf3+ 47.Kd2
+Rf2+ 48.Ke3 1/2-1/2
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Spielmann Rudolf (AUT)"]
+[Result "1-0"]
+[ECO "E51"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 e6 2.c4 Nf6 3.Nc3 d5 4.Nf3 Be7 5.e3 O-O 6.a3 a6 7.b4 b6
+8.Bb2 c5 9.dxc5 bxc5 10.bxc5 Bxc5 11.cxd5 exd5 12.Be2 Be6 13.O-O
+Nbd7 14.Nd4 Nb6 15.Na4 Nxa4 16.Qxa4 Qd6 17.Nxe6 fxe6 18.Bf3 Nd7
+19.Rac1 Rf7 20.Bd4 Bxd4 21.exd4 Raf8 22.Bg4 Nb8 23.g3 Rf6 24.f4
+Rg6 25.Bh3 Rh6 26.Bg4 Rg6 27.Bh3 Rh6 28.Kg2 Rhf6 29.Bg4 Rg6 30.Bh5
+Rgf6 31.Bg4 Rg6 32.h3 Rgf6 33.Rf3 g5 34.fxg5 Rxf3 35.Bxf3 Qe7
+36.h4 Qf7 37.Rc3 Nd7 38.Qc6 Rb8 39.Rc2 Rf8 40.Rf2 a5 41.Rf1 Kg7
+42.Qd6 e5 43.Be2 Qe8 44.Bb5 Rxf1 45.Bxd7 Qf7 46.Qxe5+ Kf8 47.Qe2
+Rc1 48.Be6 Qc7 49.Qf3+ Ke8 50.Bf7+ Qxf7 51.Qe3+ Qe7 52.Qxc1 Qe2+
+53.Kg1 Qd3 54.Kf2 Kd7 55.Qe3 Qc2+ 56.Kf3 a4 57.Kf4 Qb1 58.h5
+Qb8+ 59.Kg4 Qb3 60.Qf3 Qc4 61.Qf5+ Kd8 62.Qe5 Qb3 63.g6 hxg6
+64.hxg6 Qd1+ 65.Kg5 Qc1+ 66.Qf4 1-0
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Tartakower Savielly (FRA)"]
+[Result "1/2-1/2"]
+[ECO "D41"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 e6 2.c4 d5 3.Nc3 c5 4.Nf3 Nf6 5.cxd5 Nxd5 6.g3 Nc6 7.Bg2
+Nxd4 8.Nxd4 Nxc3 9.bxc3 cxd4 10.Qxd4 Qxd4 11.cxd4 Bd6 12.Bf4
+Bxf4 13.gxf4 Rb8 14.Kd2 b6 15.Rhc1 Kd8 16.Rc3 Bb7 17.e4 Re8 18.a4
+Rc8 19.Rb3 f5 20.f3 Re7 21.a5 Rec7 22.Rb2 Rc4 23.axb6 axb6 24.Kd3
+Rc3+ 25.Kd2 R3c4 26.Kd3 Rc3+ 27.Kd2 R3c4 28.Kd3 1/2-1/2
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Treybal Karel (CZE)"]
+[Result "1-0"]
+[ECO "C75"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O Bd7 6.c3 Nge7 7.d4
+Ng6 8.Nbd2 Be7 9.Re1 O-O 10.Nf1 Bg4 11.Bxc6 bxc6 12.Ne3 Be6 13.Qa4
+Qd7 14.dxe5 Nxe5 15.Nxe5 dxe5 16.Rd1 Qe8 17.Nf5 c5 18.Nxe7+ Qxe7
+19.Be3 c4 20.Qa5 Rfb8 21.Qxe5 f6 22.Qg3 Rxb2 23.h3 Rd8 24.Rxd8+
+Qxd8 25.Bh6 Qe7 26.Rd1 Rb8 27.Bf4 Rd8 28.Rxd8+ Qxd8 29.Bxc7 Qd3
+30.Qd6 Qxd6 31.Bxd6 f5 32.f3 fxe4 33.fxe4 Bd7 34.Kf2 Kf7 35.Ke3
+Ke6 36.Bf8 Kf7 37.Bd6 Ke6 38.Bf4 Be8 39.Kd4 Bb5 40.Kc5 Kd7 41.e5
+Ke6 42.g4 g6 43.a3 h5 44.gxh5 gxh5 45.h4 Kf5 46.Bg3 Ke6 47.Bh2
+Ke7 48.Kd5 Kd7 49.e6+ Ke7 50.Ke5 Kf8 51.Bf4 Kg7 52.Bg5 Kg6 53.Kd5
+Kf5 54.e7 Kg6 55.Kc5 Kf7 56.Kb4 Ke6 57.a4 Bc6 58.Kxc4 Bxa4 59.Kc5
+Kd7 60.c4 Kc7 61.Kd5 Kd7 62.Ke5 Bd1 63.Kf6 Ke8 64.c5 a5 1-0
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Yates Frederick"]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 d5 2.Nf3 e6 3.c4 Nf6 4.Nc3 Be7 5.e3 O-O 6.a3 b6 7.cxd5 exd5
+8.Be2 Bb7 9.b4 Nbd7 10.O-O c5 11.bxc5 bxc5 12.Ne5 cxd4 13.exd4
+Ne4 14.Bb2 Nb6 15.f3 Nd6 16.Na4 f6 17.Nd3 Nbc4 18.Bc1 Nf5 19.Ndc5
+Bc8 20.Rf2 Re8 21.Nc3 Bf8 22.Rb1 Kh8 23.Bf4 Nxa3 24.Ra1 Nc4 25.g4
+Nfe3 26.Qa4 Nb6 27.Qc6 Nc2 28.Bc7 Nxd4 29.Bxd8 Nxc6 30.Bxb6 axb6
+31.Rxa8 Bxc5 32.Bb5 Bd7 33.Rxe8+ Bxe8 34.Na4 Bxf2+ 35.Kxf2 Kg8
+36.Nxb6 d4 37.Nc8 Kf8 38.Nd6 Bd7 39.Ke2 g6 40.Ne4 Ke7 41.Bxc6
+Bxc6 42.Kd3 f5 43.gxf5 gxf5 44.Ng3 Ke6 45.Kxd4 Bxf3 46.Ke3 Bg4
+47.Kf4 Bh3 48.Nh5 h6 49.Ng7+ Kf6 50.Ne8+ Kg6 51.Nd6 Bg4 52.Ne8
+Be2 53.Nd6 Bd3 54.Ne8 Bb5 55.Nd6 1/2-1/2
+
+
+[Event "It"]
+[Site "Carlsbad (Czech Republic)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Vidmar Milan Sr (YUG)"]
+[Black "Rubinstein Akiba K (POL)"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark "VII-VIII"]
+
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 Nbd7 5.e3 Be7 6.Bd3 h6 7.Bh4
+c5 8.cxd5 Nxd5 9.Bxe7 Qxe7 10.Nc3 Nxc3 11.bxc3 cxd4 12.cxd4 e5
+13.dxe5 O-O 14.e6 Qxe6 15.O-O Nc5 16.Nd4 Qe7 17.Rc1 Bd7 18.Bb1
+Rac8 19.Qh5 b6 20.Rfd1 Rfe8 21.h3 Qg5 22.Qxg5 hxg5 1/2-1/2
+
+
+[Event "It"]
+[Site "Rogatska Slatina (Slovenia)"]
+[Date "1929.??.??"]
+[Round "?"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Flohr Salomon M (CZE)"]
+[Result "1-0"]
+[ECO "A80"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 f5 2.e3 e6 3.f4 b6 4.Nf3 Nf6 5.Bd3 c5 6.O-O Nc6 7.c4 Be7
+8.Nc3 Bb7 9.a3 Qc8 10.b3 O-O 11.Bb2 Ng4 12.Bc1 Bf6 13.Ne2 Qc7
+14.h3 Nh6 15.Qc2 Rae8 16.Bb2 d6 17.g4 fxg4 18.Bxh7+ Kh8 19.Ng5
+cxd4 20.exd4 gxh3 21.Bg6 Re7 22.Qd3 h2+ 23.Kxh2 e5 24.d5 Nd4
+25.Nxd4 exd4 26.Ne6 Qc8 27.Rae1 Kg8 28.Kg3 Qd7 29.Rh1 Rb8 30.Bxd4
+Rf8 31.Bh7+ Kh8 32.Bf5 Qe8 33.Bg6 Qc8 34.f5 Kg8 35.Rh5 Bxd4 36.Qxd4
+Rf6 37.Rxh6 Rfxe6 38.Rh8+ 1-0
+
+
+[Event "It"]
+[Site "Rogatska Slatina (Slovenia)"]
+[Date "1929.??.??"]
+[Round "3"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Geiger Dr Hans"]
+[Result "1-0"]
+[ECO "A47"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 e6 3.Nbd2 c5 4.e3 b6 5.Bd3 Bb7 6.O-O Be7 7.dxc5
+bxc5 8.b3 O-O 9.Bb2 Nc6 10.c4 Qc7 11.h3 Ne8 12.a3 f5 13.Qc2 Bf6
+14.Bxf6 Nxf6 15.Rfe1 g6 16.e4 Nh5 17.Qc3 Nf4 18.Bf1 Rf7 19.b4
+Raf8 20.b5 fxe4 21.bxc6 exf3 22.cxb7 fxg2 23.Be2 Qxb7 24.Rab1
+Qa8 25.Qg3 Qd8 26.Ne4 Qa5 27.h4 d5 28.Ng5 Re7 29.Bg4 dxc4 30.Bxe6+
+Nxe6 31.Rxe6 Rg7 32.Rb8 Qc7 33.Ree8 1-0
+
+
+[Event "It"]
+[Site "Rogatska Slatina (Slovenia)"]
+[Date "1929.??.??"]
+[Round "1"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Gruenfeld Ernst F (AUT)"]
+[Result "1/2-1/2"]
+[ECO "D05"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 e6 3.Nbd2 d5 4.e3 c5 5.a3 Nc6 6.dxc5 Bxc5 7.b4
+Bd6 8.Bb2 O-O 9.c4 Qe7 10.Rc1 Rd8 11.Qc2 e5 12.cxd5 Nxd5 13.Bd3
+h6 14.Nc4 a6 15.Nxd6 Rxd6 16.Bxe5 Nxe5 17.Nxe5 Qxe5 18.Qxc8+
+Rd8 19.Qf5 Nf4 20.Qxf4 Qxf4 21.exf4 Rxd3 22.O-O 1/2-1/2
+
+
+[Event "It"]
+[Site "Rogatska Slatina (Slovenia)"]
+[Date "1929.??.??"]
+[Round "7"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Konig Emmerich"]
+[Result "1/2-1/2"]
+[ECO "A47"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 e6 3.Nbd2 c5 4.e3 b6 5.Bd3 Be7 6.O-O Bb7 7.b3
+Nc6 8.a3 cxd4 9.exd4 O-O 10.c4 d5 11.Bb2 Qc7 12.Re1 Rad8 13.Rc1
+Qb8 14.Qe2 dxc4 15.bxc4 Rfe8 16.h3 g6 17.Bc2 Nh5 18.Ba4 Bf6 19.Qe3
+Rf8 20.Ne5 Nxe5 21.dxe5 Be7 22.Ne4 Bxe4 23.Qxe4 Rd2 24.Bc3 Ra2
+25.Bd1 Ng7 26.Bb4 Bc5 27.Be2 Nf5 28.Qb1 Rxa3 29.Bxa3 Bxa3 30.Rcd1
+Qxe5 31.Bd3 Qf6 32.Bxf5 gxf5 33.Rd7 Bc5 34.Rxa7 Qd4 35.Qc2 b5
+36.Rd1 Qxc4 37.Qxc4 bxc4 38.Rc7 Ba3 39.f4 h5 40.Rxc4 Kh7 41.Rd7
+Bb2 42.Kf2 Kg6 43.Rdc7 Rb8 44.Rc8 Bd4+ 45.Ke2 Rb2+ 46.Rc2 Rb3
+47.Rg8+ Bg7 48.Rd2 Rb4 49.Ke3 Ra4 50.Rd3 Rb4 51.Kf3 Ra4 52.h4
+Ra7 53.g3 Rb7 54.Kg2 Rb2+ 55.Kh3 Rb7 56.Rgd8 Ra7 57.R8d7 Rxd7
+58.Rxd7 Bc3 59.Rd3 Bb4 60.Rb3 Ba5 1/2-1/2
+
+
+[Event "It"]
+[Site "Rogatska Slatina (Slovenia)"]
+[Date "1929.??.??"]
+[Round "14"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Saemisch Friedrich (GER)"]
+[Result "1-0"]
+[ECO "A47"]
+[WhiteElo "0"]
+[BlackElo "2200"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 e6 3.Nbd2 c5 4.e3 b6 5.Bd3 Nc6 6.O-O Bb7 7.a3
+Qc7 8.c4 Be7 9.b3 O-O 10.Bb2 d6 11.Rc1 Rfe8 12.Qe2 Rad8 13.Rfd1
+Qb8 14.Bb1 Rd7 15.Nf1 Qa8 16.Ng3 cxd4 17.exd4 Na5 18.b4 Nc6 19.Re1
+Rdd8 20.Ng5 Nb8 21.d5 e5 22.f4 Nbd7 23.Qc2 g6 24.f5 b5 25.Nxh7 1-0
+
+
+[Event "It"]
+[Site "Rogatska Slatina (Slovenia)"]
+[Date "1929.??.??"]
+[Round "11"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Singer Leone"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Nf3 Nbd7 5.e3 Be7 6.Qc2 O-O 7.Bd2
+Re8 8.Rc1 c6 9.Bd3 Bf8 10.O-O h6 11.h3 dxc4 12.Bxc4 e5 13.Qb3
+Qe7 14.dxe5 Nh7 15.Ne4 b5 16.Be2 Nxe5 17.Nc5 Qd6 18.Rfd1 Nxf3+
+19.Bxf3 Ng5 20.Be2 Qg6 21.h4 Nh3+ 22.Kf1 Nxf2 23.Kxf2 Qf5+ 24.Kg1
+Bxc5 25.Rf1 Bxe3+ 26.Bxe3 Qe6 27.Qxe6 Bxe6 28.Bf3 Bd5 29.Rxc6
+Bxc6 30.Bxc6 Rxe3 31.Bxa8 Re2 32.Bd5 Rxb2 33.Rxf7 Rd2 34.Bb3 1-0
+
+
+[Event "Olympiad"]
+[Site "Hamburg (Germany)"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Maroczy Geza (HUN)"]
+[Result "1-0"]
+[ECO "E42"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Nge2 cxd4 6.exd4 d5 7.a3
+Be7 8.c5 b6 9.b4 bxc5 10.dxc5 e5 11.f4 d4 12.fxe5 dxc3 13.Qxd8+
+Kxd8 14.exf6 Bxf6 15.Be3 Nc6 16.O-O-O+ Kc7 17.Bf4+ Kb7 18.g3
+Bf5 19.Bg2 Rae8 20.b5 Rxe2 21.Bxc6+ Kc8 22.Rd5 Be6 23.b6 axb6
+24.cxb6 Rb2 25.Ra5 1-0
+
+
+[Event "Olympiad"]
+[Site "Hamburg (Germany)"]
+[Date "1930.??.??"]
+[Round "6"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Stahlberg Gideon (SWE)"]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Be7 5.e3 O-O 6.Qc2 b6 7.Bd2 Bb7
+8.cxd5 exd5 9.Bd3 Nbd7 10.O-O c5 11.Ne5 Rc8 12.Rad1 g6 13.f4
+cxd4 14.exd4 Ne4 15.Qa4 Nxe5 16.fxe5 Nxd2 17.Rxd2 Bc6 18.Qd1
+Bg5 19.Re2 Bd7 20.h3 Be6 21.Rf3 Qd7 22.Qe1 Qe7 23.Kh2 Qb7 24.Ref2
+a6 25.a4 Ra8 26.Qf1 Be7 27.g3 Bb4 28.h4 Be7 29.Qc1 Rfc8 30.h5
+Kg7 31.g4 Bd8 32.Kg3 h6 33.hxg6 Bg5 34.Qb1 Qe7 35.Rxf7+ Bxf7
+36.Rxf7+ 1-0
+
+
+[Event "Olympiad"]
+[Site "Hamburg (Germany)"]
+[Date "1930.??.??"]
+[Round "12"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Sultan Khan Mir (IND)"]
+[Result "1-0"]
+[ECO "A46"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 e6 3.Nbd2 c5 4.e3 Nc6 5.a3 cxd4 6.exd4 d5 7.Bd3
+Bd6 8.O-O O-O 9.Re1 Re8 10.h3 h6 11.c3 a5 12.Ne5 Bxe5 13.dxe5
+Nd7 14.Nf3 Nc5 15.Bb5 Bd7 16.a4 f5 17.exf6 Qxf6 18.Be3 Ne4 19.Qe2
+e5 20.Rad1 Be6 21.Bb6 Rf8 22.c4 Nb4 23.cxd5 Nxd5 24.Qxe4 Nxb6
+25.Rd6 Nd5 26.Rxd5 Bxd5 27.Qxd5+ Kh8 28.Qxb7 Qf4 29.Re4 Qc1+
+30.Kh2 Rab8 31.Qa7 Rbc8 32.Nxe5 Rf6 33.Rg4 Qc7 34.Qe3 Rcf8 35.f4
+g5 36.Qd4 Kg8 37.Bc4+ Kh7 38.fxg5 hxg5 39.Rxg5 Rf4 40.Bd3+ Kh6
+41.Rg6+ Kh7 42.Rc6+ 1-0
+
+
+[Event "Olympiad"]
+[Site "Hamburg (Germany)"]
+[Date "1930.??.??"]
+[Round "16"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Thorvaldsson Einar"]
+[Result "1-0"]
+[ECO "D05"]
+[WhiteElo "0"]
+[BlackElo "2200"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.Nf3 e6 3.Nbd2 d5 4.e3 Nbd7 5.a3 Be7 6.Bd3 O-O 7.O-O
+Re8 8.Ne5 c5 9.c3 Nf8 10.f4 Bd6 11.g4 N6d7 12.g5 Bxe5 13.dxe5
+Nxe5 14.fxe5 Qxg5+ 15.Kh1 Qxe5 16.e4 f6 17.Qf3 Bd7 18.Qg3 Qxg3
+19.hxg3 Bc6 20.Kg1 Rad8 21.Re1 e5 22.a4 Ne6 23.exd5 Bxd5 24.Nc4
+e4 25.Be2 f5 26.Ne3 g6 27.Nxd5 Rxd5 28.Bc4 Rd6 29.Bf4 Rdd8 30.Rad1
+Kf8 31.Rxd8 Nxd8 32.Rd1 Ne6 33.Rd7 Nxf4 34.Rf7+ Kg8 35.gxf4 Kh8
+36.Rxb7 Rd8 37.Rxa7 Rd1+ 38.Kf2 Rd2+ 39.Ke1 Rxb2 40.a5 g5 41.a6
+gxf4 42.Rb7 1-0
+
+
+[Event "It"]
+[Site "San Remo (Italy)"]
+[Date "1930.??.??"]
+[Round "11"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Vidmar Milan Sr (YUG)"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 d5 2.Nf3 Nf6 3.c4 c6 4.e3 e6 5.Nc3 Nbd7 6.Ne5 Nxe5 7.dxe5
+Nd7 8.f4 Bb4 9.Bd2 Qb6 10.Be2 O-O 11.O-O Bxc3 12.bxc3 dxc4 13.Bxc4
+Rd8 14.Qc2 Qc5 15.Be2 b6 16.Rad1 Nf8 17.Bc1 Bb7 18.Rd4 Qe7 19.Rfd1
+c5 20.Rd6 Rxd6 21.exd6 Qe8 22.e4 e5 23.f5 Qc6 24.Bf3 Rd8 25.Qd2
+Nd7 26.g4 h6 27.h4 Nf6 28.g5 hxg5 29.hxg5 Nxe4 30.Qc2 c4 31.Re1
+Qc5+ 32.Be3 Qd5 33.Rd1 Qc6 34.Kh2 g6 35.f6 a5 36.Bc1 b5 37.Re1
+Qd7 38.Bxe4 Qg4 39.Qe2 Qh4+ 40.Kg2 Bxe4+ 41.Qxe4 Qxe4+ 42.Rxe4
+Rxd6 43.Rxe5 Rd1 44.Be3 b4 45.cxb4 axb4 46.Re4 Rd3 47.Kf2 Rc3
+48.Re8+ Kh7 49.Rf8 1-0
+
+
+[Event "?"]
+[Site "Scarborough (England)"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Winter William (ENG)"]
+[Result "1-0"]
+[ECO "E40"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 Bxc3+ 5.bxc3 b6 6.Bd3 Bb7 7.f3
+O-O 8.Ne2 d6 9.e4 Nbd7 10.O-O c5 11.Be3 Rc8 12.Ng3 Rc7 13.Qe2
+Qc8 14.f4 Ba6 15.Rac1 Ne8 16.e5 f5 17.Rfd1 cxd4 18.cxd4 dxe5
+19.dxe5 Nc5 20.Bc2 Nb7 21.Ba4 Bxc4 22.Rxc4 Rxc4 23.Bd7 1-0
+
+
+[Event ""]
+[Site "Scarborough (England)"]
+[Date "1930.??.??"]
+[Round "?"]
+[White "Rubinstein Akiba K (POL)"]
+[Black "Yates Frederick"]
+[Result "1/2-1/2"]
+[ECO "E51"]
+[WhiteElo "0"]
+[BlackElo "0"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Nf3 Be7 5.e3 O-O 6.a3 Nbd7 7.Qc2
+c6 8.Bd2 Re8 9.Bd3 Bd6 10.Rc1 Qe7 11.Ne2 h6 12.Ng3 a6 13.O-O
+dxc4 14.Bxc4 b5 15.Ba2 c5 16.dxc5 Nxc5 17.Bb4 Nb7 18.Bxd6 Nxd6
+19.e4 e5 20.Qe2 Bb7 21.Nd2 Rac8 22.f3 Nh7 23.Qe3 Ng5 24.Nf5 Nxf5
+25.exf5 Qf6 26.Ne4 Nxe4 27.fxe4 Qg5 28.Qxg5 hxg5 29.Bd5 Bxd5
+30.exd5 Red8 31.Rc6 Rxc6 32.dxc6 Rc8 33.Rc1 Kf8 34.c7 Ke7 35.Rc6
+Kd7 36.Rxa6 Rxc7 37.b4 Ke7 38.Kf2 Rc3 39.g4 Rb3 40.Kg2 Rc3 41.Kf2
+Rb3 42.Kg2 1/2-1/2
+
+
