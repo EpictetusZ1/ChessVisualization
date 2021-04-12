@@ -27,7 +27,7 @@
   - Can show frequency of most popular "first" move for games in the database
     - (Note: a move is one individual player action, two "moves" result in a "ply" or "turn" being completed)
 
-  - Show "second" move frequency as a dependant of the first move. Which in turn gives us a list of the most frequently occurring the next move for each instance of move.
+  - Show "second" move frequency as a dependant of the first move. Which in turn gives us a list of the most frequently occurring moves in terms of the next move for each instance of a 'move'.
     - This is still being worked on, the end goal is to show them on the board, in a Seaborn heat map sort of way with the top 3 replies to each move being displayed.
 
 
