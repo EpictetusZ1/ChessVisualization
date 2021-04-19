@@ -24,8 +24,8 @@
 
 
 ##### Visualization:
-  - Can show frequency of most popular "first" move for games in the database
-    - (Note: a move is one individual player action, two "moves" result in a "ply" or "turn" being completed)
+  - Can show frequency of most popular "first" turn/ ply for games in the database
+    - (Note: a turn is one individual player action, two "turns" or "plys" result in a move being completed)
 
   - Show "second" move frequency as a dependant of the first move. Which in turn gives us a list of the most frequently occurring moves in terms of the next move for each instance of a 'move'.
     - This is still being worked on, the end goal is to show them on the board, in a Seaborn heat map sort of way with the top 3 replies to each move being displayed.
@@ -37,7 +37,7 @@
 
 #### About this data:
 - Sample data is 88 games. Can be viewed in '/games' dir.
-- 155 is the length of 'moves' of the longest game in the data frame (Note: there is 2 moves in a 'ply', the longest game has 78 plys).
+- 155 is the length of 'plys' of the longest game in the data frame (Note: there is 2 plys in a 'move', the longest game has 78 moves).
 - All games have been appended with 'None' string values to make the data non-jagged.
 - Column[0] contains whites 5 most popular first moves (d4, e4, c4, Nf3).
 - Column[1] contains blacks 3 most common replies to each [0] move from white.
